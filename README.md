@@ -1,5 +1,3 @@
-Here's a concise `README.md` for your project:
-
 ```markdown
 # Caching Proxy Server
 
@@ -46,6 +44,11 @@ python manage.py proxy_server --clear-cache
     ```
 
 3. Run the proxy server as described above.
+
+## Project Roadmap
+
+For the detailed roadmap of how this project works and can be extended, please visit:  
+[https://roadmap.sh/projects/caching-server](https://roadmap.sh/projects/caching-server)
 ```
 
-This `README.md` covers the basic usage and setup without extra details, as requested. Make sure to update any repository-specific details, such as the repository link.
+This version includes the required link to the roadmap at the end.
